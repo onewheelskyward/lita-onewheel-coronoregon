@@ -1,0 +1,31 @@
+{
+  "blogUrl": "https://ORalert.gov/health",
+  "description": "Oregon COVID-19 Vaccination Trends",
+  "defaultViewName": "Oregon Statewide Vaccination Trends",
+  "title": "Oregon COVID-19 Vaccination Trends",
+  "authorName": "Oregon Health Authority COVID-19",
+  "viewInfos": [
+    {
+      "sheetRepoUrl": "OregonCOVID-19VaccinationTrends/sheets/OregonStatewideVaccinationTrends",
+      "sheetTitle": "Oregon Statewide Vaccination Trends",
+      "setSheetRepoUrl": true,
+      "setSheetTitle": true
+    },
+    {
+      "sheetRepoUrl": "OregonCOVID-19VaccinationTrends/sheets/OregonCountyVaccinationTrends",
+      "sheetTitle": "Oregon County Vaccination Trends",
+      "setSheetRepoUrl": true,
+      "setSheetTitle": true
+    },
+    {
+      "sheetRepoUrl": "OregonCOVID-19VaccinationTrends/sheets/OregonStatewideVaccinationTrendsandCounts",
+      "sheetTitle": "Oregon Statewide Vaccination Trends and Counts",
+      "setSheetRepoUrl": true,
+      "setSheetTitle": true
+    }
+  ],
+  "twitterHandle": "OHAOregon",
+  "viewCount": 319372,
+  "lastUpdateDate": 1611002999329,
+  "profileName": "oregon.health.authority.covid.19"
+}
